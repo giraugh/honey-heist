@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel static/index.html",
-    "build": "parcel build static/index.html --public-url http://ewanb.me/honey-heist/",
+    "build": "parcel build static/index.html --public-url http://giraugh.xyz/honey-heist/",
     "build-local": "parcel build static/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
