@@ -35,7 +35,8 @@ export const roles = [
   'alcoholic',
   'capitalist',
   'daredevil',
-  'engineer'
+  'engineer',
+  'stoner'
 ]
 
 export const skills = {
